@@ -1,0 +1,8 @@
+﻿liskov subtutıon princeple
+blsp kalsorunda bu ıslem yapıldı bu ıslem ocp benzer bizim ıcolleciton list yapıları arasındakı ılıskı gib dusunun  alt sınıflarda olusan nesneler kalıtım ile ust sınfılarda olusturulan nesnelerde yer degiştirilebilir olmalıdır.
+
+1-)AreaCAlculator clasını kaldır
+2-) Hersklın kendı alan esaplamasını yaptıgından emın ol
+3-)dortgen sınııfında base sınıf olması shape adında genel bir souyt sınıf olusturun 
+işlemleri yap hatasız calıstıgınız göreceksınız.
+	

@@ -1,0 +1,2 @@
+﻿bagımlılıklarımızı yonetmemızı saglayan presnıplerden bşrisidir
+abstactıon ıle sınıfımızdan alt seviye sınıflara bagımlılıgımızı kaldırmmaz gerekir.

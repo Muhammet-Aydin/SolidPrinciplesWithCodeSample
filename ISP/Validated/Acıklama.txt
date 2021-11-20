@@ -1,0 +1,7 @@
+﻿ınterface segregation prensciple sınıflar ıhtıyacları olmayan ozelllık ve davranısları ıceren ınterfacelerı almamalı
+ıbırd sınıfına bakarsak cok gene oldugunu  ve farklı kus turlerınden kues aılesınden gelen turlerde problemlere yol actıgını görebilirsiniz tavuk penguen gini kslar ucamazar ve bu kuslara bız ucma ozellıgını dahıl ettık yanı ısp prensbıonı cıgnedık.
+bunu duzeltmek adına kus ınterfaceını biraz bolumlere bolmenız gerek valıdated klasorunde bu problemı cozelım.
+
+abstract ınterface ve abstatlarımızı koyarız 
+concrete ıs somut sınıflarımızı koyarız .
+valıdated klasorund ebu csorunu coelım bu bunu dozueltmek adın kus ınterfaceını bolumlere ayırtıdk ardından sahın sınıfına bakarsak em ucaymayan hemde ucabilen kusların yeteneklerını sahip olduklarını göreceksınız ancak tavuklarınsadece ucamaayan kusların ozellıklerıne sahip oldugunu farketmenız gerekıyor bu sayede tavuk sınıfını gereksız davranıslarını ondan almoıs olduk 

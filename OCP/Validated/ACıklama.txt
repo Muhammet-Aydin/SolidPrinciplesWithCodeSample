@@ -1,0 +1,4 @@
+﻿//bu prensıp elektrık adaptoru giibi dusuneblirsiniz.
+cıkıs sayısını degiştirmek mumkun degildir ancak ıstek uzerıne daha fazla adaptr eklenebilir
+ilk olarak bad classa gidin bakın amacımız  her yenı tipe bir class olusturmak bu sayede kod genişletilebilir olacak  sade olacak son eklenen  classslar daha rahat kontrol edilceek var olan classları duzenlemeye gerek kalmayacak.
+KÖTU KULLANIMDA TEK CLASS ICERISINDE IF ELSE EKLEYEREK TİPLERİ TUTATKEN VALİDETED KLASORU İÇİNDE HER BIRI ICINDE CLASS OLUSTURDUK YENİ BİR YİP EKLENIGINDE SADECE YENİ BİR SINIF ACILAVCAK VE VAR OLAN SINIFLARIN KODLARINDA DEGİŞİKLİK YAPMAK ZORUNDA KALMAYACAKSINIZ.
